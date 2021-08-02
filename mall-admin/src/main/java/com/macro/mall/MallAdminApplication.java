@@ -10,7 +10,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class MallAdminApplication {
     public static void main(String[] args) {
-        //测试第一条提交记录
+
         SpringApplication.run(MallAdminApplication.class, args);
     }
 }
